@@ -1,0 +1,5 @@
+attrs==23.2.0
+jsonschema==3.0.1
+pathlib2==2.3.7.post1
+pyrsistent==0.20.0
+six==1.16.0
